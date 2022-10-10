@@ -9,7 +9,7 @@
   "license": "MIT",
   "bugs": "https://github.com/facebook/flipper/issues",
   "dependencies": {
-    "@babel/core": "^7.17.10",
+    "@babel/core": "^7.19.3",
     "@babel/generator": "^7.17.10",
     "@babel/parser": "^7.17.10",
     "@babel/plugin-proposal-class-properties": "^7.16.7",
