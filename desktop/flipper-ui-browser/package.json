@@ -18,7 +18,7 @@
     "flipper-frontend-core": "0.0.0",
     "flipper-ui-core": "0.0.0",
     "invariant": "^2.2.4",
-    "metro-runtime": "^0.70.2",
+    "metro-runtime": "^0.73.6",
     "pretty-format": "^27.5.0",
     "react-refresh": "^0.10.0"
   },
